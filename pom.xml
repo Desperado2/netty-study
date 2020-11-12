@@ -11,6 +11,8 @@
     <modules>
         <module>03-netty-http-server</module>
         <module>04-channel-pipeline</module>
+        <module>07-custom-agreement</module>
+        <module>08-diff-decoder</module>
     </modules>
 
     <dependencies>
